@@ -17,3 +17,7 @@
 20230403	11:34:56	86e5d5a7-d1bb-4750-8dc2-55f2ceaf5aae	ReferenceError: request is not defined
 20230403	11:34:56	25094f0b-9a03-4e17-851e-950ca07f4f1b	ReferenceError: request is not defined
 20230403	11:34:57	6649a7b6-2c04-4860-bf42-7ce8b999fe93	ReferenceError: request is not defined
+20230404	14:50:23	9e9ea152-16e1-4945-8119-c3292ef9d288	SyntaxError: Unexpected token e in JSON at position 0
+20230404	14:50:34	9fee481e-c558-406a-99eb-7187c89c91e0	SyntaxError: Unexpected token e in JSON at position 0
+20230404	14:50:43	334460d8-8b17-4855-a95f-caee06bd3f9e	SyntaxError: Unexpected token . in JSON at position 0
+20230404	14:50:53	43ef0b07-a02b-4fef-ac12-70bacbfdc0c2	SyntaxError: Unexpected token e in JSON at position 0
